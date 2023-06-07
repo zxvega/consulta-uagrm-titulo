@@ -12,7 +12,7 @@ setup(
     author='Giovanni Vega',
     # use the URL to the github repo
     url='https://github.com/zxvega/consulta-uagrm-titulo',
-    install_requires=['requests, webdriver-manager, selenium, pandas'],
+    install_requires=['requests', 'webdriver-manager', 'selenium', 'pandas'],
     keywords=[],
     classifiers=[ ],
     license='MIT',
