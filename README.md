@@ -9,9 +9,11 @@ Este es un proyecto con fines academicos y de investigacion Web Scraping.
 ## Requisitos
 ```shell
 pip install request webdriver-manager selenium pandas
+```
+## Instalacion del Paquete
+```shell
 pip install titulosuagrm
 ```
-
 ## Ejemplo
 ```python
 from titulosuagrm import EndpointClient
